@@ -10,7 +10,7 @@ const AboutMe = () =>{
             can be found below. 
             Feel free to contact me by clicking any of the contact links below so we can get in touch! Hope you enjoy!</p>
         </div>
-    )
-}
+    );
+};
 
 export default AboutMe;
