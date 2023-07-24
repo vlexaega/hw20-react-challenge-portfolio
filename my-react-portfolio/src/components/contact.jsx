@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const ContactMe = () =>{
     return (
-        <div class="contact-links">
+        <div className="contact-links">
         <h2>contact</h2>
         <ul>
             <li>
