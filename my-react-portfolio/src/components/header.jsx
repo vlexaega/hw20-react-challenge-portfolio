@@ -2,12 +2,11 @@ import React from "react";
 
 const Header = () => {
     const headerStyle = {
-        backgroundColor: "rgb(218, 234, 241)",
         display: "flex",
         flexDirection: "row",
         justifyContent: "center",
         alignItems: "center",
-        padding: "20px",
+        padding: "0px",
     };
     const imageStyle = {
         maxWidth: "100%",
