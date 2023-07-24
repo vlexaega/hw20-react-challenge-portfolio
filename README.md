@@ -1,26 +1,8 @@
-# React Challenge - React Portfolio
+# React + Vite
 
-## Description
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This project is to build my portfolio utilizing React.
+Currently, two official plugins are available:
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-No installation required.
-## Usage
-
-This portfolio and repo is for the creation of my personal portfolio utilizing React.
-
-## Credits
-
-- Columbia Coding Bootcamp
-
-## License
-
-MIT License ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) (https://opensource.org/licenses/MIT)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
