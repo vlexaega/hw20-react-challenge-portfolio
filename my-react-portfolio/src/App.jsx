@@ -4,6 +4,7 @@ import { useState } from 'react'
 import React from 'react'
 import './App.css'
 import Nav from './components/nav'
+import Header from './components/header'
 import AboutMe from './components/about-me'
 import Projects from './components/projects'
 import ContactMe from './components/contact'
@@ -13,6 +14,7 @@ function App() {
 
   return (
     <>
+      <Header />
       <Nav />
       <div className='text-gray-400 bg-gray-900 body-font'>
         <AboutMe />

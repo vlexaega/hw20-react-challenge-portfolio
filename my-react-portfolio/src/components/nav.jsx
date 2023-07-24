@@ -15,7 +15,7 @@ const Nav = () => {
                     </a>
                 </li>
                 <li>
-                    <a href="contact" className="hover:text-gray-300">
+                    <a href="#contact" className="hover:text-gray-300">
                         Contact Me
                     </a>
                 </li>
