@@ -30,6 +30,16 @@ const ProjectThree = () => {
     );
 };
 
+const ProjectFour = () => {
+  return (
+      <div className="projects">
+          <a href="https://github.com/vlexaega/project3-untitled" target="_blank" rel="noopener noreferrer">
+          <img src="/assets/projectuntitled.jpg" alt="digital art gallery" id="untitled-image" />
+          </a>
+      </div>
+  );
+};
+
 const Projects = () => {
     return (
     <div className="work">
@@ -38,6 +48,7 @@ const Projects = () => {
         <ProjectOne />
         <ProjectTwo />
         <ProjectThree />
+        <ProjectFour />
         </div>
     </div>
   );
